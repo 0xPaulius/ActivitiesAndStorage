@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activities And Storage</string>
+    <string name="create_note">Create Note</string>
+    <string name="delete_note">Delete Note</string>
+</resources>
